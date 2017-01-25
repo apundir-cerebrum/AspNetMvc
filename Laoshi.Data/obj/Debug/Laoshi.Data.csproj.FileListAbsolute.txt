@@ -1,0 +1,7 @@
+D:\Projects\LiveProjects\Laoshi\Laoshi.Data\bin\Debug\Laoshi.Data.dll
+D:\Projects\LiveProjects\Laoshi\Laoshi.Data\bin\Debug\Laoshi.Data.pdb
+D:\Projects\LiveProjects\Laoshi\Laoshi.Data\bin\Debug\Laoshi.Domain.dll
+D:\Projects\LiveProjects\Laoshi\Laoshi.Data\bin\Debug\Laoshi.Domain.pdb
+D:\Projects\LiveProjects\Laoshi\Laoshi.Data\obj\Debug\Laoshi.Data.csprojResolveAssemblyReference.cache
+D:\Projects\LiveProjects\Laoshi\Laoshi.Data\obj\Debug\Laoshi.Data.dll
+D:\Projects\LiveProjects\Laoshi\Laoshi.Data\obj\Debug\Laoshi.Data.pdb

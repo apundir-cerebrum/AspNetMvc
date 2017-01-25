@@ -1,0 +1,10 @@
+D:\Projects\LiveProjects\Laoshi\Laoshi.Domain\bin\Debug\Laoshi.Domain.dll.config
+D:\Projects\LiveProjects\Laoshi\Laoshi.Domain\bin\Debug\Laoshi.Domain.dll
+D:\Projects\LiveProjects\Laoshi\Laoshi.Domain\bin\Debug\Laoshi.Domain.pdb
+D:\Projects\LiveProjects\Laoshi\Laoshi.Domain\bin\Debug\EntityFramework.dll
+D:\Projects\LiveProjects\Laoshi\Laoshi.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\LiveProjects\Laoshi\Laoshi.Domain\bin\Debug\EntityFramework.xml
+D:\Projects\LiveProjects\Laoshi\Laoshi.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\LiveProjects\Laoshi\Laoshi.Domain\obj\Debug\Laoshi.Domain.csprojResolveAssemblyReference.cache
+D:\Projects\LiveProjects\Laoshi\Laoshi.Domain\obj\Debug\Laoshi.Domain.dll
+D:\Projects\LiveProjects\Laoshi\Laoshi.Domain\obj\Debug\Laoshi.Domain.pdb
